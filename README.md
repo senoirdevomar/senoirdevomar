@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @senoirdevomar
-- 👀 I’m interested in websites programming 
+- 👀 I’m interested in websites programming and developing 
 - 🌱 I’m currently learning c/c++ and English 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
